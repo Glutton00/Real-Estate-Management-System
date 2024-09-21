@@ -50,4 +50,4 @@ Real Estate Management System (REMS) is an online real estate software applicati
 
 ## Developed by
 
-* Sayan Paul
+* Yatin Gill
